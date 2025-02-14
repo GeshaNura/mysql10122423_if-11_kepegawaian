@@ -1,0 +1,14 @@
+username  = admin
+password = admin12345
+
+username = katyusa
+password = kt12345
+
+username = Rizal
+password = rz12345
+
+username = Bilal
+password = ba12345
+
+username = Dimas
+password = dm12345
